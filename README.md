@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @1996Aurel
 - 👀 I’m interested in ML & DL, statistical modelling, and computer vision
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking for a job in data science, ideally applied to Earth observation, in Barcelona
+- 📫 How to reach me: aurelamar96@gmail.com
 
 <!---
 1996Aurel/1996Aurel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
