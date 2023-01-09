@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @1996Aurel
+- 👋 Hi, I’m Aurel
+- :snail: eheh
 - 👀 I’m interested in ML & DL, statistical modelling, and computer vision
 - 💞️ I’m looking for a job in data science, ideally applied to Earth observation, in Barcelona
 - 📫 How to reach me: aurelamar96@gmail.com
