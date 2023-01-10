@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aurel
 - 🚀 I graduated from ISAE-Supaero (french leading aerospace institute) in December 2021
-- 👀 I’m interested in ML & DL, statistical modelling, and computer vision
+- 👀 I’m interested in ML & DL, statistical modeling, and computer vision
 - 📖  I conducted research in AI at IRT Saint-Exupéry in Toulouse and at the SARLab of the University of Zurich
 - 🌍 I’m presently looking for a job in data science, ideally applied to Earth observation, in Barcelona
 - 📫 How to reach me: aurelamar96@gmail.com
