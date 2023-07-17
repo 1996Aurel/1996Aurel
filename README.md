@@ -2,7 +2,6 @@
 - 🚀 I graduated from ISAE-Supaero (France's leading aerospace institute) in December 2021
 - 👀 I’m interested in ML & DL, statistical modeling, and computer vision
 - 📖  I conducted research in AI at IRT Saint-Exupéry in Toulouse and at the SARLab of the University of Zurich
-- 🌍 I’m presently looking for a job in data science, ideally in Barcelona
 - 📫 How to reach me: aurelamar96@gmail.com
 
 
